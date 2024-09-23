@@ -1,0 +1,21 @@
+# Ignorar a pasta Library do Unity
+[Ll]ibrary/
+
+# Ignorar a pasta Temp do Unity
+[Tt]emp/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+
+# Ignorar binários e builds
+[Bb]uild/
+*.exe
+*.dll
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
