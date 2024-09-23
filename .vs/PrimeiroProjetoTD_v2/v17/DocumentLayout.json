@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\PrimeiroProjetoTD_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0B3549-DE06-ACC7-E785-C5E42AD7FAED}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\primeiroprojetotd_v2\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0B3549-DE06-ACC7-E785-C5E42AD7FAED}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0B3549-DE06-ACC7-E785-C5E42AD7FAED}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\primeiroprojetotd_v2\\assets\\scripts\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0B3549-DE06-ACC7-E785-C5E42AD7FAED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\PrimeiroProjetoTD_v2\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\PrimeiroProjetoTD_v2\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:14:39.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Torre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\PrimeiroProjetoTD_v2\\Assets\\Scripts\\Torre.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Torre.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\PrimeiroProjetoTD_v2\\Assets\\Scripts\\Torre.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Torre.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:09:40.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
