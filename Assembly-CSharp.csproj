@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\DadosDaFase.cs" />
     <Compile Include="Assets\Scripts\MovimentoInimigo.cs" />
     <Compile Include="Assets\Scripts\SpawnDeInimigos.cs" />
+    <Compile Include="Assets\Scripts\Saúde.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\Plot.cs" />
     <Compile Include="Assets\Scripts\Dragable.cs" />

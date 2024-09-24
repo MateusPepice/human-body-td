@@ -8,7 +8,8 @@ public class Bullet : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
 
     [Header("Atributtes")]
-    [SerializeField] private float bulletSpeed = 5f;
+    [SerializeField] private float velocidadeBala = 5f;
+    [SerializeField] private int danoBala = 1;
 
     private Transform target;
     public void SetTarget(Transform _target) {
@@ -20,12 +21,13 @@ public class Bullet : MonoBehaviour
     {
         if (!target) return;
         Vector2 direction = (target.position - transform.position).normalized;
-        rb.velocity = direction * bulletSpeed;
+        rb.velocity = direction * velocidadeBala;
     }
 
     private void OnCollisionEnter2D(Collision2D other)
     {
         // Diminui a vida do inimigo
+        other.gameObject.GetComponent<Saude>().recebeDano(danoBala);
         Destroy(gameObject);
     }
 }
